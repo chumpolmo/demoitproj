@@ -1,9 +1,10 @@
 'use strict';
 
+// Thank: https://github.com/line/line-bot-sdk-nodejs
 const line = require('@line/bot-sdk');
 const express = require('express');
 
-// create LINE SDK config from env variables
+// create LINE SDK config
 const config = {
   channelAccessToken: 'YOUR_CHANNEL_ACCESS_TOKEN',
   channelSecret: 'YOUR_CHANNEL_SECRET'
