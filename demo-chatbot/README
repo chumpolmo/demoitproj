@@ -1,0 +1,11 @@
+สำหรับตัวอย่างของโปรแกรมนี้เป็นการทดสอบการทำงานของ LINE Messaging API SDK สำหรับ nodejs ในเบื้องต้น
+ซึ่งได้ใช้งาน ngrok (https://ngrok.com/) เพื่อทดสอบการทำงานของ LINE Bot ดังกล่าว 
+ถ้า Bot ไม่มีปัญหาใด ๆ แปอพลิเคชันจะสามารถตอบกลับข้อความที่ผู้ใช้พิมพ์ผ่านทางแอปพลิเคชันไลน์
+
+LINE Messaging API SDK for nodejs
+- https://line.github.io/line-bot-sdk-nodejs/
+
+Thanks acknowledge the source code sample.
+- https://github.com/line/line-bot-sdk-nodejs
+
+--Enjoy.
